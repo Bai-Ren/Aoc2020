@@ -24,7 +24,7 @@ namespace ReportRepair
 
             Nums = new HashSet<int>();
 
-            AocUtils.AocUtils.ReadInput(PartOneAction);
+            Utils.ReadInput(PartOneAction);
         }
 
         static void PartOneAction (string line)
@@ -54,7 +54,7 @@ namespace ReportRepair
             Nums = new HashSet<int>();
             SumsToProducts = new Dictionary<int, int>();
 
-            AocUtils.AocUtils.ReadInput(PartTwoAction);
+            Utils.ReadInput(PartTwoAction);
         }
 
         static void PartTwoAction (string line)

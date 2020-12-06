@@ -4,7 +4,7 @@ using System.IO;
 
 namespace AocUtils
 {
-    public class AocUtils
+    public class Utils
     {
         public static void ReadInput(Action<string> action)
         {
