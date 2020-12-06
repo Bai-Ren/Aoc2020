@@ -1,0 +1,7 @@
+C:\Users\loves\git\studious-sniffle\AoC2020\AocUtils\obj\Debug\AocUtils.csprojAssemblyReference.cache
+C:\Users\loves\git\studious-sniffle\AoC2020\AocUtils\obj\Debug\AocUtils.csproj.CoreCompileInputs.cache
+C:\Users\loves\git\studious-sniffle\AoC2020\AocUtils\bin\Debug\AocUtils.dll.config
+C:\Users\loves\git\studious-sniffle\AoC2020\AocUtils\bin\Debug\AocUtils.dll
+C:\Users\loves\git\studious-sniffle\AoC2020\AocUtils\bin\Debug\AocUtils.pdb
+C:\Users\loves\git\studious-sniffle\AoC2020\AocUtils\obj\Debug\AocUtils.dll
+C:\Users\loves\git\studious-sniffle\AoC2020\AocUtils\obj\Debug\AocUtils.pdb

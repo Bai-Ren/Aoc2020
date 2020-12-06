@@ -5,3 +5,7 @@ C:\Users\loves\git\studious-sniffle\AoC2020\ReportRepair\obj\Debug\ReportRepair.
 C:\Users\loves\git\studious-sniffle\AoC2020\ReportRepair\obj\Debug\ReportRepair.csproj.CoreCompileInputs.cache
 C:\Users\loves\git\studious-sniffle\AoC2020\ReportRepair\obj\Debug\ReportRepair.exe
 C:\Users\loves\git\studious-sniffle\AoC2020\ReportRepair\obj\Debug\ReportRepair.pdb
+C:\Users\loves\git\studious-sniffle\AoC2020\ReportRepair\bin\Debug\AocUtils.dll
+C:\Users\loves\git\studious-sniffle\AoC2020\ReportRepair\bin\Debug\AocUtils.pdb
+C:\Users\loves\git\studious-sniffle\AoC2020\ReportRepair\bin\Debug\AocUtils.dll.config
+C:\Users\loves\git\studious-sniffle\AoC2020\ReportRepair\obj\Debug\ReportRepair.csproj.CopyComplete
