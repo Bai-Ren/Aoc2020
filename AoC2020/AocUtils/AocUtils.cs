@@ -6,7 +6,7 @@ namespace AocUtils
 {
     public class Utils
     {
-        public static void ReadInput(Action<string> action)
+        public static void ForEachLine(Action<string> action)
         {
             IEnumerable<string> lines = File.ReadAllLines("input.txt");
 

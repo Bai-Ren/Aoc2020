@@ -23,7 +23,7 @@ namespace ReportRepair
 
             Nums = new HashSet<int>();
 
-            Utils.ReadInput(PartOneAction);
+            Utils.ForEachLine(PartOneAction);
         }
 
         static void PartOneAction (string line)
@@ -53,7 +53,7 @@ namespace ReportRepair
             Nums = new HashSet<int>();
             SumsToProducts = new Dictionary<int, int>();
 
-            Utils.ReadInput(PartTwoAction);
+            Utils.ForEachLine(PartTwoAction);
         }
 
         static void PartTwoAction (string line)
