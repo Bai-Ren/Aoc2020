@@ -9,3 +9,14 @@ C:\Users\loves\git\studious-sniffle\AoC2020\TobogganTrajectory\obj\Debug\Tobogga
 C:\Users\loves\git\studious-sniffle\AoC2020\TobogganTrajectory\obj\Debug\TobogganTrajectory.csproj.CopyComplete
 C:\Users\loves\git\studious-sniffle\AoC2020\TobogganTrajectory\obj\Debug\TobogganTrajectory.exe
 C:\Users\loves\git\studious-sniffle\AoC2020\TobogganTrajectory\obj\Debug\TobogganTrajectory.pdb
+C:\Users\loves\git\Aoc2020\src\TobogganTrajectory\bin\Debug\TobogganTrajectory.exe.config
+C:\Users\loves\git\Aoc2020\src\TobogganTrajectory\bin\Debug\TobogganTrajectory.exe
+C:\Users\loves\git\Aoc2020\src\TobogganTrajectory\bin\Debug\TobogganTrajectory.pdb
+C:\Users\loves\git\Aoc2020\src\TobogganTrajectory\bin\Debug\AocUtils.dll
+C:\Users\loves\git\Aoc2020\src\TobogganTrajectory\bin\Debug\AocUtils.pdb
+C:\Users\loves\git\Aoc2020\src\TobogganTrajectory\bin\Debug\AocUtils.dll.config
+C:\Users\loves\git\Aoc2020\src\TobogganTrajectory\obj\Debug\TobogganTrajectory.csprojAssemblyReference.cache
+C:\Users\loves\git\Aoc2020\src\TobogganTrajectory\obj\Debug\TobogganTrajectory.csproj.CoreCompileInputs.cache
+C:\Users\loves\git\Aoc2020\src\TobogganTrajectory\obj\Debug\TobogganTrajectory.csproj.CopyComplete
+C:\Users\loves\git\Aoc2020\src\TobogganTrajectory\obj\Debug\TobogganTrajectory.exe
+C:\Users\loves\git\Aoc2020\src\TobogganTrajectory\obj\Debug\TobogganTrajectory.pdb

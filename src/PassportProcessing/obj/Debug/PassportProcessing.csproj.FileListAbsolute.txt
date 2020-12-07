@@ -9,3 +9,14 @@ C:\Users\loves\git\studious-sniffle\AoC2020\PassportProcessing\obj\Debug\Passpor
 C:\Users\loves\git\studious-sniffle\AoC2020\PassportProcessing\obj\Debug\PassportProcessing.csproj.CopyComplete
 C:\Users\loves\git\studious-sniffle\AoC2020\PassportProcessing\obj\Debug\PassportProcessing.exe
 C:\Users\loves\git\studious-sniffle\AoC2020\PassportProcessing\obj\Debug\PassportProcessing.pdb
+C:\Users\loves\git\Aoc2020\src\PassportProcessing\bin\Debug\PassportProcessing.exe.config
+C:\Users\loves\git\Aoc2020\src\PassportProcessing\bin\Debug\PassportProcessing.exe
+C:\Users\loves\git\Aoc2020\src\PassportProcessing\bin\Debug\PassportProcessing.pdb
+C:\Users\loves\git\Aoc2020\src\PassportProcessing\bin\Debug\AocUtils.dll
+C:\Users\loves\git\Aoc2020\src\PassportProcessing\bin\Debug\AocUtils.pdb
+C:\Users\loves\git\Aoc2020\src\PassportProcessing\bin\Debug\AocUtils.dll.config
+C:\Users\loves\git\Aoc2020\src\PassportProcessing\obj\Debug\PassportProcessing.csprojAssemblyReference.cache
+C:\Users\loves\git\Aoc2020\src\PassportProcessing\obj\Debug\PassportProcessing.csproj.CoreCompileInputs.cache
+C:\Users\loves\git\Aoc2020\src\PassportProcessing\obj\Debug\PassportProcessing.csproj.CopyComplete
+C:\Users\loves\git\Aoc2020\src\PassportProcessing\obj\Debug\PassportProcessing.exe
+C:\Users\loves\git\Aoc2020\src\PassportProcessing\obj\Debug\PassportProcessing.pdb

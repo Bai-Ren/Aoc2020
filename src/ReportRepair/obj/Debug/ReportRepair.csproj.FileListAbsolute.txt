@@ -9,3 +9,14 @@ C:\Users\loves\git\studious-sniffle\AoC2020\ReportRepair\bin\Debug\AocUtils.dll
 C:\Users\loves\git\studious-sniffle\AoC2020\ReportRepair\bin\Debug\AocUtils.pdb
 C:\Users\loves\git\studious-sniffle\AoC2020\ReportRepair\bin\Debug\AocUtils.dll.config
 C:\Users\loves\git\studious-sniffle\AoC2020\ReportRepair\obj\Debug\ReportRepair.csproj.CopyComplete
+C:\Users\loves\git\Aoc2020\src\ReportRepair\bin\Debug\ReportRepair.exe.config
+C:\Users\loves\git\Aoc2020\src\ReportRepair\bin\Debug\ReportRepair.exe
+C:\Users\loves\git\Aoc2020\src\ReportRepair\bin\Debug\ReportRepair.pdb
+C:\Users\loves\git\Aoc2020\src\ReportRepair\bin\Debug\AocUtils.dll
+C:\Users\loves\git\Aoc2020\src\ReportRepair\bin\Debug\AocUtils.pdb
+C:\Users\loves\git\Aoc2020\src\ReportRepair\bin\Debug\AocUtils.dll.config
+C:\Users\loves\git\Aoc2020\src\ReportRepair\obj\Debug\ReportRepair.csprojAssemblyReference.cache
+C:\Users\loves\git\Aoc2020\src\ReportRepair\obj\Debug\ReportRepair.csproj.CoreCompileInputs.cache
+C:\Users\loves\git\Aoc2020\src\ReportRepair\obj\Debug\ReportRepair.csproj.CopyComplete
+C:\Users\loves\git\Aoc2020\src\ReportRepair\obj\Debug\ReportRepair.exe
+C:\Users\loves\git\Aoc2020\src\ReportRepair\obj\Debug\ReportRepair.pdb
