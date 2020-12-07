@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordPhilosophy", "Passw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AocUtils", "AocUtils\AocUtils.csproj", "{A0171EB5-409B-448D-B377-65F56F389667}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TobogganTrajectory", "TobogganTrajectory\TobogganTrajectory.csproj", "{B3B5A1C2-53A5-4777-B353-98BB254C5CE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A0171EB5-409B-448D-B377-65F56F389667}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0171EB5-409B-448D-B377-65F56F389667}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0171EB5-409B-448D-B377-65F56F389667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B5A1C2-53A5-4777-B353-98BB254C5CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B5A1C2-53A5-4777-B353-98BB254C5CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B5A1C2-53A5-4777-B353-98BB254C5CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B5A1C2-53A5-4777-B353-98BB254C5CE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
